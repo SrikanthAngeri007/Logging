@@ -1,0 +1,1 @@
+-Dlogging.config="C:/Users/SrikanthReddy/log/log4j2.xml"
